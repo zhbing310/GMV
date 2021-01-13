@@ -8,3 +8,7 @@ cat ~/.gitconfig
 12345678
 hello hello hello
 master master master
+ni haoya
+3344 576312
+hhafhfewhriqwtgiywtg gfsdfafgawkjfgewjgfwhefgw
+
