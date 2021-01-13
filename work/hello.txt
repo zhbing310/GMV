@@ -7,3 +7,4 @@ cat ~/.gitconfig
 cat ~/.gitconfig
 12345678
 hello hello hello
+master master master
