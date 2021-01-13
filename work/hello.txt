@@ -1,0 +1,8 @@
+cat ~/.gitconfig
+cat ~/.gitconfig
+cat ~/.gitconfig
+cat ~/.gitconfig
+cat ~/.gitconfig
+cat ~/.gitconfig
+cat ~/.gitconfig
+12345678
